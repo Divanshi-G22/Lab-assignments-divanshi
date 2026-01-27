@@ -1,1 +1,1 @@
-# Lab-assignments-divanshi
+# Lab-assignments-DSA
